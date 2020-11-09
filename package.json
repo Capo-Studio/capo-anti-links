@@ -1,0 +1,39 @@
+{
+  "name": "capo-anti-links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Capo-Studio/capo-anti-links.git"
+  },
+  "keywords": [
+    "curse",
+    "profanity",
+	"discord",
+	"anti-links",
+    "relaxed",
+    "links",
+    "bad",
+    "dirty",
+    "obscene",
+    "filter",
+    "clean",
+    "word",
+    "words",
+    "string",
+    "list",
+    "parolacce",
+    "italian",
+    "italiane",
+    "blacklist",
+    "black",
+    "leet",
+    "translator"
+  ],
+  "author": "Capo",
+  "license": "MIT"
+}
